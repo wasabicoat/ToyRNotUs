@@ -1,0 +1,29 @@
+body {
+    background-color: #F3D8C7;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    margin-top: 5%;
+    font-size: 70px;
+    color: #302A28;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    margin-top: 5%;
+    font-size: 70px;
+    color: #302A28;
+}
+
+.btn{
+    font-size: 39px;
+    background: #ffb200;
+    border-radius: 3%;
+    padding: 1%;
+    border: 4px;
+    width: 170px;
+    font-family: 'Amatic SC', cursive;
+}

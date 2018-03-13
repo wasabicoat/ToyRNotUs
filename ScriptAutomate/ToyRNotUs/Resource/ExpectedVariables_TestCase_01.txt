@@ -1,0 +1,4 @@
+*** Variables ***
+&{ExpectedItemData}    ToyId=2    ToyName=43 Piece dinner Set    Gender=Female    Age=3_to_5    Price=12.95    Availability=InStock    Brand=CoolKidz
+...               Img=
+&{ShippingAddress}    Address1=เลขที่ 3 อาคารพร้อมพันธุ์ 3 ลาดพร้าว 3    Address2=ถนนลาดพร้าว แขวงจอมพล     City=จตุจักร    Province=กรุงเทพ    PostCode=10900

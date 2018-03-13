@@ -1,0 +1,10 @@
+*** Variables ***
+${ddlQuantity}    ddlQuantity
+${lblSubTotal}    lblSubTotal
+${btnProcess}     btnProcess
+${lblBrand}       lblBrand
+${lblGender}      lblGender
+${lblAge}         lblAge
+${lblPrice}       lblPrice
+${lblShippingFee}    lblShippingFee
+${lblTotal}       Total

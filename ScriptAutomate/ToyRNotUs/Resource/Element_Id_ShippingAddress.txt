@@ -1,0 +1,8 @@
+*** Variables ***
+${txtFullName}    txtFullName
+${txtAddress1}    txtAddress1
+${txtAddress2}    txtAddress2
+${txtCity}        txtCity
+${txtProvince}    txtProvince
+${txtPostCode}    txtPostCode
+${btnDeliver}     btnDeliver

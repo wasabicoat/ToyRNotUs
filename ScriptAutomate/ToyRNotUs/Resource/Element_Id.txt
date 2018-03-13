@@ -1,0 +1,5 @@
+*** Settings ***
+Resource          Element_Id_Seach.txt
+Resource          Element_Id_ProductDetail.txt
+Resource          Element_Id_ShippingAddress.txt
+Resource          Element_Id_ThankYou.txt

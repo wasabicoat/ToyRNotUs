@@ -1,0 +1,6 @@
+*** Variables ***
+${ddlAge}         ddlAge
+${btnSearch}      btnSearch
+${tblList}        tblList
+${ddlGender}      ddlGender
+${ImgToyPicture}    ImgToyPicture

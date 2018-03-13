@@ -1,0 +1,354 @@
+<table style="height: 261px; width: 609px;">
+
+<tbody>
+
+<tr style="height: 56px;">
+
+<td style="width: 596px; height: 56px;" colspan="2">
+
+<h1><strong>Thanks you</strong></h1>
+
+</td>
+
+</tr>
+
+<tr style="height: 18px;">
+
+<td style="width: 191px; height: 18px;">
+
+<table style="height: 248px; width: 572px;" border="1" cellspacing="0" cellpadding="0">
+
+<tbody>
+
+<tr>
+
+<td style="width: 556px;" colspan="3"><strong>Toy Name</strong>&nbsp;&nbsp;</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 146px;" rowspan="7"><img src="testToy" width="136" height="136" /></td>
+
+<td style="width: 183px;"><strong>Brand</strong></td>
+
+<td style="width: 227px;">&nbsp;</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 183px;"><strong>Gender</strong></td>
+
+<td style="width: 227px;">&nbsp;</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 183px;"><strong>Age</strong></td>
+
+<td style="width: 227px;">&nbsp;</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 183px;"><strong>Price</strong></td>
+
+<td style="width: 227px;">&nbsp;</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 183px;"><strong>Shipping Metod</strong></td>
+
+<td style="width: 227px;">&nbsp;</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 183px;"><strong>In Stock/Out of Stock</strong></td>
+
+<td style="width: 227px;">&nbsp;</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 183px;"><strong>Quantity</strong></td>
+
+<td style="width: 227px;">&nbsp;</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 146px;"><strong>Shipping Method :</strong></td>
+
+<td style="width: 183px;">&nbsp;</td>
+
+<td style="width: 227px;"><strong>Subtotal :</strong></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 146px;"><strong>Shipping fee :</strong></td>
+
+<td style="width: 183px;">&nbsp;</td>
+
+<td style="width: 227px;"><strong>Shipping Fee :</strong></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 146px;">&nbsp;</td>
+
+<td style="width: 183px;">&nbsp;</td>
+
+<td style="width: 227px;">&nbsp;</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</td>
+
+<td style="width: 405px; height: 18px;">
+
+<table style="height: 235px;" width="589">
+
+<tbody>
+
+<tr>
+
+<td style="width: 189px;" colspan="3"><strong>Shipping Address</strong></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;" colspan="3">Full name</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;" colspan="3"><input style="width: 500px;" type="label" /></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;" colspan="3">Address1</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;" colspan="3"><input style="width: 500px;" type="label" /></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;" colspan="3">Address2</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;" colspan="3"><input style="width: 500px;" type="label" /></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;">&nbsp;City</td>
+
+<td style="width: 189px;">&nbsp;Province</td>
+
+<td style="width: 189px;">&nbsp;Post Code</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;"><input style="width: 100px;" type="label" /></td>
+
+<td style="width: 189px;"><input style="width: 100px;" type="label" /></td>
+
+<td style="width: 189px;"><input style="width: 100px;" type="label" /></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px; text-align: center;" colspan="3">&nbsp;</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr style="height: 18px;">
+
+<td style="width: 191px; height: 18px; text-align: center;" colspan="2"><button type="button">Close</button></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Best Regards,
+
+Wipawan Juntalert
+
+System Analyst
+
+ 
+
+NTN Solution Co.,Ltd.
+
+Description: logo-c300
+
+ 
+
+Unit 1403, 14th Floor ,Serm-Mit Tower , 159/22 Sukhumvit 21 Road (Asok),
+
+North Klongtoey ,Wattana , Bankok 10110 , Thailand
+
+Tel: (66)2-661-6886
+
+Mobile : (66)8 -3433-6222
+
+Email : Wipawan@ntnsolution.com
+
+*************************************************************
+
+Ntn culture
+
+     Commitment
+
+     Responsibility
+
+     Discipline
+
+ 
+
+From: Wipawan Juntalert 
+Sent: Wednesday, February 28, 2018 4:17 PM
+To: 'wichitt@gmail.com' <wichitt@gmail.com>
+Subject: RE: insert toy :Shipping Address
+
+ 
+
+Shipping Address
+
+ 
+
+ 
+
+<table style="height: 235px;" width="589">
+
+<tbody>
+
+<tr>
+
+<td style="width: 189px;" colspan="3"><strong>Shipping Address</strong></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;" colspan="3">Full name</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;" colspan="3"><input style="width: 500px;" type="textbox" /></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;" colspan="3">Address1</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;" colspan="3"><textarea style="width: 500px;">.
+
+</textarea></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;" colspan="3">Address2</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;" colspan="3"><textarea style="width: 500px;">.
+
+</textarea></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;">&nbsp;City</td>
+
+<td style="width: 189px;">&nbsp;Province</td>
+
+<td style="width: 189px;">&nbsp;Post Code</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px;"><input type="textbox" /></td>
+
+<td style="width: 189px;"><input type="textbox" /></td>
+
+<td style="width: 189px;"><input type="textbox" /></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 189px; text-align: center;" colspan="3"><button type="button">Deliver to tis address</button></td>
+
+</tr>
+
+</tbody>
+
+</table>
